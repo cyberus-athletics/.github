@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cyberus-athletics/.github/refs/heads/master/profile/cyberus-full.png" align="left" width="140" style="border-radius: 8%; margin-right: 15px;"/>
+<img src="https://raw.githubusercontent.com/cyberus-athletics/.github/refs/heads/master/profile/cyberus-full.png" align="left" width="140" style="border-radius: 15%; margin-right: 15px;"/>
 
 ### `Cyberus`
 
