@@ -1,2 +1,2 @@
 # .github
-Forr Cyberus Org. Github home page
+For Cyberus Org. Github home page
